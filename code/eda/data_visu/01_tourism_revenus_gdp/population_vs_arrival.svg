@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1000 900">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-opacity: .5;
+        stroke: #ccc;
+      }
+
+      .cls-1, .cls-10 {
+        fill: #ad647d;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19 {
+        stroke: #d3d3d3;
+      }
+
+      .cls-11, .cls-20, .cls-6 {
+        fill: #9e5e73;
+      }
+
+      .cls-21, .cls-22, .cls-23, .cls-20, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-10, .cls-29, .cls-30 {
+        stroke-width: 0px;
+      }
+
+      .cls-21, .cls-4, .cls-16 {
+        fill: #9b838b;
+      }
+
+      .cls-22, .cls-18 {
+        fill: #99425f;
+      }
+
+      .cls-23, .cls-31, .cls-32, .cls-19 {
+        fill: none;
+      }
+
+      .cls-2, .cls-29 {
+        fill: #bc919f;
+      }
+
+      .cls-12, .cls-9, .cls-30 {
+        fill: #c494a4;
+      }
+
+      .cls-13, .cls-3, .cls-28 {
+        fill: #9b6778;
+      }
+
+      .cls-14, .cls-24, .cls-8 {
+        fill: #af5171;
+      }
+
+      .cls-15, .cls-5, .cls-26 {
+        fill: #aa5e77;
+      }
+
+      .cls-31 {
+        stroke: #8c606e;
+      }
+
+      .cls-25, .cls-33 {
+        fill: #000;
+      }
+
+      .cls-17, .cls-7, .cls-27 {
+        fill: #ba909e;
+      }
+
+      .cls-32 {
+        stroke: #756369;
+      }
+
+      .cls-33 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 12px;
+        font-weight: 700;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <rect class="cls-23" x="166.7" y="0" width="166.7" height="180"/>
+  <circle id="_200000000000" data-name="200000000000" class="cls-32" cx="250" cy="83.3" r="48"/>
+  <rect id="_0" data-name="0" class="cls-19" x="250" y="83.3"/>
+  <g id="_27" data-name="27">
+    <path class="cls-1" d="M263.9,91.3c-2.1,1.6-11-3-13.9-8-4.9-8.5-2-45.7,0-46,2.2-.3,17.9,51,13.9,54"/>
+    <g id="dots">
+      <circle class="cls-10" cx="250" cy="37.3" r="1"/>
+      <circle class="cls-10" cx="263.9" cy="91.3" r="1"/>
+      <circle class="cls-10" cx="250" cy="83.3" r="1"/>
+    </g>
+  </g>
+  <rect class="cls-23" x="333.3" y="0" width="166.7" height="180"/>
+  <circle id="_100000000000" data-name="100000000000" class="cls-31" cx="416.7" cy="83.3" r="24"/>
+  <rect id="_0-2" data-name="0" class="cls-19" x="416.7" y="83.3"/>
+  <g id="_13" data-name="13">
+    <path class="cls-2" d="M440.9,97.3c-1.5,1.7-20.5-7.5-24.2-14-3.2-5.6-2.3-20.3,0-21,3.3-1,26.1,33,24.2,35"/>
+    <g id="dots-2" data-name="dots">
+      <circle class="cls-29" cx="416.7" cy="62.3" r="1"/>
+      <circle class="cls-29" cx="440.9" cy="97.3" r="1"/>
+      <circle class="cls-29" cx="416.7" cy="83.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(338.3 15.3)"><tspan x="0" y="0">Mexico</tspan></text>
+  <rect class="cls-23" x="500" y="0" width="166.7" height="180"/>
+  <circle id="_20000000000" data-name="20000000000" class="cls-17" cx="583.3" cy="83.3" r="5"/>
+  <rect id="_0-3" data-name="0" class="cls-17" x="583.3" y="83.3"/>
+  <g id="radars">
+    <g id="_9" data-name="9">
+      <path class="cls-7" d="M612.8,100.3c-.5.7-26.5-12-29.4-17-1.2-2.1-1.1-5.5,0-6,2.8-1.4,29.9,22.3,29.4,23"/>
+      <g id="dots-3" data-name="dots">
+        <circle class="cls-27" cx="583.3" cy="77.3" r="1"/>
+        <circle class="cls-27" cx="612.8" cy="100.3" r="1"/>
+        <circle class="cls-27" cx="583.3" cy="83.3" r="1"/>
+      </g>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(505 15.3)"><tspan x="0" y="0">Russian Federation</tspan></text>
+  <rect class="cls-23" x="666.7" y="0" width="166.7" height="180"/>
+  <circle id="_100000000000-2" data-name="100000000000" class="cls-12" cx="750" cy="83.3" r="24"/>
+  <rect id="_0-4" data-name="0" class="cls-12" x="750" y="83.3"/>
+  <g id="_28" data-name="28">
+    <path class="cls-9" d="M759.5,88.8c-1.3,1-7.6-2.2-9.5-5.5-2.8-4.8-1.3-23.8,0-24,1.5-.2,11.7,27.8,9.5,29.5"/>
+    <g id="dots-4" data-name="dots">
+      <circle class="cls-30" cx="750" cy="59.3" r="1"/>
+      <circle class="cls-30" cx="759.5" cy="88.8" r="1"/>
+      <circle class="cls-30" cx="750" cy="83.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(671.7 15.3)"><tspan x="0" y="0">Spain</tspan></text>
+  <circle id="_20000000000-2" data-name="20000000000" class="cls-16" cx="916.7" cy="83.3" r="5"/>
+  <rect id="_0-5" data-name="0" class="cls-16" x="916.7" y="83.3"/>
+  <g id="_17" data-name="17">
+    <path class="cls-4" d="M942.6,98.3c-.2.4-23.9-11.4-26-15-.7-1.1-.6-2.7,0-3,2-1.1,26.2,17.6,26,18"/>
+    <g id="dots-5" data-name="dots">
+      <circle class="cls-21" cx="916.7" cy="80.3" r="1"/>
+      <circle class="cls-21" cx="942.6" cy="98.3" r="1"/>
+      <circle class="cls-21" cx="916.7" cy="83.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(838.3 15.3)"><tspan x="0" y="0">Japan</tspan></text>
+  <circle id="_80000000000" data-name="80000000000" class="cls-15" cx="83.3" cy="263.3" r="19"/>
+  <rect id="_0-6" data-name="0" class="cls-15" x="83.3" y="263.3"/>
+  <g id="_24" data-name="24">
+    <path class="cls-5" d="M95.5,270.3c-1.2,1.1-10-3.3-12.1-7-2.4-4.2-1.5-17.7,0-18,1.8-.4,13.8,23.5,12.1,25"/>
+    <g id="dots-6" data-name="dots">
+      <circle class="cls-26" cx="83.3" cy="245.3" r="1"/>
+      <circle class="cls-26" cx="95.5" cy="270.3" r="1"/>
+      <circle class="cls-26" cx="83.3" cy="263.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(5 195.3)"><tspan x="0" y="0">Italy</tspan></text>
+  <rect id="_0-7" data-name="0" class="cls-15" x="250" y="263.3"/>
+  <circle class="cls-26" cx="250" cy="263.3" r="1"/>
+  <circle class="cls-26" cx="250" cy="263.3" r="1"/>
+  <text class="cls-33" transform="translate(171.7 195.3)"><tspan x="0" y="0">China</tspan></text>
+  <circle id="_40000000000" data-name="40000000000" class="cls-15" cx="416.7" cy="263.3" r="10"/>
+  <rect id="_0-8" data-name="0" class="cls-15" x="416.7" y="263.3"/>
+  <g id="_25" data-name="25">
+    <path class="cls-5" d="M434,273.3c-.5.7-15.2-6.3-17.3-10-1.3-2.2-1.1-6.5,0-7,2-.8,17.9,16.2,17.3,17"/>
+    <g id="dots-7" data-name="dots">
+      <circle class="cls-26" cx="416.7" cy="256.3" r="1"/>
+      <circle class="cls-26" cx="434" cy="273.3" r="1"/>
+      <circle class="cls-26" cx="416.7" cy="263.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(338.3 195.3)"><tspan x="0" y="0">Germany</tspan></text>
+  <circle id="_40000000000-2" data-name="40000000000" class="cls-15" cx="583.3" cy="263.3" r="10"/>
+  <rect id="_0-9" data-name="0" class="cls-15" x="583.3" y="263.3"/>
+  <g id="_22" data-name="22">
+    <path class="cls-5" d="M598.9,272.3c-.6.8-13.5-5.4-15.6-9-1.4-2.4-1.1-7.6,0-8,1.9-.7,16.3,16.1,15.6,17"/>
+    <g id="dots-8" data-name="dots">
+      <circle class="cls-26" cx="583.3" cy="255.3" r="1"/>
+      <circle class="cls-26" cx="598.9" cy="272.3" r="1"/>
+      <circle class="cls-26" cx="583.3" cy="263.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(505 195.3)"><tspan x="0" y="0">Turkiye</tspan></text>
+  <circle id="_40000000000-3" data-name="40000000000" class="cls-15" cx="750" cy="263.3" r="10"/>
+  <rect id="_0-10" data-name="0" class="cls-15" x="750" y="263.3"/>
+  <g id="_26" data-name="26">
+    <path class="cls-5" d="M763,270.8c-.6.7-11.2-4.3-13-7.5-1.3-2.3-1.1-7.6,0-8,1.7-.6,13.7,14.7,13,15.5"/>
+    <g id="dots-9" data-name="dots">
+      <circle class="cls-26" cx="750" cy="255.3" r="1"/>
+      <circle class="cls-26" cx="763" cy="270.8" r="1"/>
+      <circle class="cls-26" cx="750" cy="263.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(671.7 195.3)"><tspan x="0" y="0">United Kingdom</tspan></text>
+  <circle id="_20000000000-3" data-name="20000000000" class="cls-15" cx="916.7" cy="263.3" r="5"/>
+  <rect id="_0-11" data-name="0" class="cls-15" x="916.7" y="263.3"/>
+  <g id="_23" data-name="23">
+    <path class="cls-5" d="M930.5,271.3c-.4.5-12.2-5.1-13.9-8-.9-1.6-.8-4.7,0-5,1.6-.7,14.3,12.4,13.9,13"/>
+    <g id="dots-10" data-name="dots">
+      <circle class="cls-26" cx="916.7" cy="258.3" r="1"/>
+      <circle class="cls-26" cx="930.5" cy="271.3" r="1"/>
+      <circle class="cls-26" cx="916.7" cy="263.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(838.3 195.3)"><tspan x="0" y="0">Thailand</tspan></text>
+  <rect class="cls-23" y="360" width="166.7" height="180"/>
+  <circle id="_20000000000-4" data-name="20000000000" class="cls-18" cx="83.3" cy="443.3" r="5"/>
+  <rect id="_0-12" data-name="0" class="cls-18" x="83.3" y="443.3"/>
+  <path class="cls-25" d="M83.3,745.2"/>
+  <circle class="cls-22" cx="83.3" cy="440.3" r="1"/>
+  <circle class="cls-22" cx="94.6" cy="449.8" r="1"/>
+  <circle class="cls-22" cx="83.3" cy="443.3" r="1"/>
+  <text class="cls-33" transform="translate(5 375.3)"><tspan x="0" y="0">South Africa</tspan></text>
+  <circle id="_20000000000-5" data-name="20000000000" class="cls-11" cx="250" cy="443.3" r="5"/>
+  <rect id="_0-13" data-name="0" class="cls-11" x="250" y="443.3"/>
+  <g id="_1" data-name="1">
+    <path class="cls-6" d="M259.5,448.8c-.4.5-8.2-3.3-9.5-5.5-.9-1.5-.7-4.7,0-5,1.2-.5,10,10,9.5,10.5"/>
+    <g id="dots-11" data-name="dots">
+      <circle class="cls-20" cx="250" cy="438.3" r="1"/>
+      <circle class="cls-20" cx="259.5" cy="448.8" r="1"/>
+      <circle class="cls-20" cx="250" cy="443.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(171.7 375.3)"><tspan x="0" y="0">Ukraine</tspan></text>
+  <circle id="_40000000000-4" data-name="40000000000" class="cls-11" cx="416.7" cy="443.3" r="10"/>
+  <rect id="_0-14" data-name="0" class="cls-11" x="416.7" y="443.3"/>
+  <g id="_2" data-name="2">
+    <path class="cls-6" d="M418.4,444.3c-.3.2-1.3-.3-1.7-1-.9-1.5-.3-10,0-10,.3,0,2.5,10.5,1.7,11"/>
+    <g id="dots-12" data-name="dots">
+      <circle class="cls-20" cx="416.7" cy="433.3" r="1"/>
+      <circle class="cls-20" cx="418.4" cy="444.3" r="1"/>
+      <circle class="cls-20" cx="416.7" cy="443.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(338.3 375.3)"><tspan x="0" y="0">Hungary</tspan></text>
+  <circle id="_20000000000-6" data-name="20000000000" class="cls-11" cx="583.3" cy="443.3" r="5"/>
+  <rect id="_0-15" data-name="0" class="cls-11" x="583.3" y="443.3"/>
+  <g id="_14" data-name="14">
+    <path class="cls-6" d="M589.4,446.8c-.4.4-5.1-1.9-6.1-3.5-.8-1.4-.6-4.8,0-5,.8-.3,6.5,8,6.1,8.5"/>
+    <g id="dots-13" data-name="dots">
+      <circle class="cls-20" cx="583.3" cy="438.3" r="1"/>
+      <circle class="cls-20" cx="589.4" cy="446.8" r="1"/>
+      <circle class="cls-20" cx="583.3" cy="443.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(505 375.3)"><tspan x="0" y="0">Malaysia</tspan></text>
+  <circle id="_40000000000-5" data-name="40000000000" class="cls-11" cx="750" cy="443.3" r="10"/>
+  <rect id="_0-16" data-name="0" class="cls-11" x="750" y="443.3"/>
+  <g id="_21" data-name="21">
+    <path class="cls-6" d="M751.7,444.3c-.3.2-1.3-.3-1.7-1-.9-1.5-.3-10,0-10,.3,0,2.5,10.5,1.7,11"/>
+    <g id="dots-14" data-name="dots">
+      <circle class="cls-20" cx="750" cy="433.3" r="1"/>
+      <circle class="cls-20" cx="751.7" cy="444.3" r="1"/>
+      <circle class="cls-20" cx="750" cy="443.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(671.7 375.3)"><tspan x="0" y="0">Hong Kong</tspan></text>
+  <circle id="_20000000000-7" data-name="20000000000" class="cls-11" cx="916.7" cy="443.3" r="5"/>
+  <rect id="_0-17" data-name="0" class="cls-11" x="916.7" y="443.3"/>
+  <g id="_7" data-name="7">
+    <path class="cls-6" d="M922.7,446.8c-.3.3-5.2-2-6.1-3.5-.7-1.1-.5-3.8,0-4,.8-.3,6.4,7.1,6.1,7.5"/>
+    <g id="dots-15" data-name="dots">
+      <circle class="cls-20" cx="916.7" cy="439.3" r="1"/>
+      <circle class="cls-20" cx="922.7" cy="446.8" r="1"/>
+      <circle class="cls-20" cx="916.7" cy="443.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(838.3 375.3)"><tspan x="0" y="0">Saudi Arabia</tspan></text>
+  <circle id="_20000000000-8" data-name="20000000000" class="cls-14" cx="83.3" cy="623.3" r="2.7"/>
+  <rect id="_0-18" data-name="0" class="cls-14" x="83.3" y="623.3"/>
+  <g id="_8" data-name="8">
+    <path class="cls-8" d="M91.1,627.8l-7.8-4.5h0l7.8,4.5"/>
+    <g id="dots-16" data-name="dots">
+      <circle class="cls-24" cx="83.3" cy="623.3" r="1"/>
+      <circle class="cls-24" cx="91.1" cy="627.8" r="1"/>
+      <circle class="cls-24" cx="83.3" cy="623.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(5 555.3)"><tspan x="0" y="0">Poland</tspan></text>
+  <circle id="_20000000000-9" data-name="20000000000" class="cls-14" cx="250" cy="623.3" r="7"/>
+  <rect id="_0-19" data-name="0" class="cls-14" x="250" y="623.3"/>
+  <g id="_3" data-name="3">
+    <path class="cls-8" d="M251.7,624.3c-.3.2-1.4-.4-1.7-1-.6-1.1-.3-6,0-6,.3,0,2.3,6.6,1.7,7"/>
+    <g id="dots-17" data-name="dots">
+      <circle class="cls-24" cx="250" cy="617.3" r="1"/>
+      <circle class="cls-24" cx="251.7" cy="624.3" r="1"/>
+      <circle class="cls-24" cx="250" cy="623.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(171.7 555.3)"><tspan x="0" y="0">Czechia</tspan></text>
+  <circle id="_20000000000-10" data-name="20000000000" class="cls-14" cx="416.7" cy="623.3" r="5"/>
+  <rect id="_0-20" data-name="0" class="cls-14" x="416.7" y="623.3"/>
+  <g id="_12" data-name="12">
+    <path class="cls-8" d="M419.3,624.8c-.3.3-2.1-.7-2.6-1.5-.6-1.1-.3-4.9,0-5,.4,0,3.1,6.1,2.6,6.5"/>
+    <g id="dots-18" data-name="dots">
+      <circle class="cls-24" cx="416.7" cy="618.3" r="1"/>
+      <circle class="cls-24" cx="419.3" cy="624.8" r="1"/>
+      <circle class="cls-24" cx="416.7" cy="623.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(338.3 555.3)"><tspan x="0" y="0">Greece</tspan></text>
+  <circle id="_40000000000-6" data-name="40000000000" class="cls-14" cx="583.3" cy="623.3" r="6"/>
+  <rect id="_0-21" data-name="0" class="cls-14" x="583.3" y="623.3"/>
+  <g id="_4" data-name="4">
+    <path class="cls-8" d="M584.2,623.8c-.2.1-.7-.1-.9-.5-.5-.9-.1-6,0-6,.1,0,1.3,6.2.9,6.5"/>
+    <g id="dots-19" data-name="dots">
+      <circle class="cls-24" cx="583.3" cy="617.3" r="1"/>
+      <circle class="cls-24" cx="584.2" cy="623.8" r="1"/>
+      <circle class="cls-24" cx="583.3" cy="623.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(505 555.3)"><tspan x="0" y="0">Denmark</tspan></text>
+  <circle id="_40000000000-7" data-name="40000000000" class="cls-14" cx="750" cy="623.3" r="6"/>
+  <circle id="_20000000000-11" data-name="20000000000" class="cls-14" cx="750" cy="623.3" r="5"/>
+  <rect id="_0-22" data-name="0" class="cls-14" x="750" y="623.3"/>
+  <g id="_16" data-name="16">
+    <path class="cls-8" d="M751.7,624.3c-.3.2-1.4-.4-1.7-1-.6-1.1-.3-6,0-6,.3,0,2.3,6.6,1.7,7"/>
+    <g id="dots-20" data-name="dots">
+      <circle class="cls-24" cx="750" cy="617.3" r="1"/>
+      <circle class="cls-24" cx="751.7" cy="624.3" r="1"/>
+      <circle class="cls-24" cx="750" cy="623.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(671.7 555.3)"><tspan x="0" y="0">Austria</tspan></text>
+  <circle id="_20000000000-12" data-name="20000000000" class="cls-14" cx="916.7" cy="623.3" r="5"/>
+  <rect id="_0-23" data-name="0" class="cls-14" x="916.7" y="623.3"/>
+  <g id="_15" data-name="15">
+    <path class="cls-8" d="M920.1,625.3c-.2.2-2.9-1.1-3.5-2-.5-.8-.3-2.9,0-3,.5-.1,3.7,4.7,3.5,5"/>
+    <g id="dots-21" data-name="dots">
+      <circle class="cls-24" cx="916.7" cy="620.3" r="1"/>
+      <circle class="cls-24" cx="920.1" cy="625.3" r="1"/>
+      <circle class="cls-24" cx="916.7" cy="623.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(838.3 555.3)"><tspan x="0" y="0">Netherlands</tspan></text>
+  <circle id="_20000000000-13" data-name="20000000000" class="cls-13" cx="83.3" cy="803.3" r="5"/>
+  <rect id="_0-24" data-name="0" class="cls-13" x="83.3" y="803.3"/>
+  <g id="_11" data-name="11">
+    <path class="cls-3" d="M85.1,804.3c-.3.2-1.4-.4-1.7-1-.6-1-.2-5,0-5,.3,0,2.2,5.7,1.7,6"/>
+    <g id="dots-22" data-name="dots">
+      <circle class="cls-28" cx="83.3" cy="798.3" r="1"/>
+      <circle class="cls-28" cx="85.1" cy="804.3" r="1"/>
+      <circle class="cls-28" cx="83.3" cy="803.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(5 735.3)"><tspan x="0" y="0">United Arab Emirates</tspan></text>
+  <circle id="_40000000000-8" data-name="40000000000" class="cls-13" cx="250" cy="803.3" r="7"/>
+  <rect id="_0-25" data-name="0" class="cls-13" x="250" y="803.3"/>
+  <g id="_20" data-name="20">
+    <path class="cls-3" d="M250,803.3h0v-6,6"/>
+    <g id="dots-23" data-name="dots">
+      <circle class="cls-28" cx="250" cy="797.3" r="1"/>
+      <circle class="cls-28" cx="250" cy="803.3" r="1"/>
+      <circle class="cls-28" cx="250" cy="803.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(171.7 735.3)"><tspan x="0" y="0">Macao</tspan></text>
+  <circle id="_20000000000-14" data-name="20000000000" class="cls-13" cx="416.7" cy="803.3" r="4"/>
+  <rect id="_0-26" data-name="0" class="cls-13" x="416.7" y="803.3"/>
+  <g id="_0-27" data-name="0">
+    <path class="cls-3" d="M417.5,803.8c-.1.1-.7-.2-.9-.5-.3-.5-.1-3,0-3,.1,0,1.1,3.3.9,3.5"/>
+    <g id="dots-24" data-name="dots">
+      <circle class="cls-28" cx="416.7" cy="800.3" r="1"/>
+      <circle class="cls-28" cx="417.5" cy="803.8" r="1"/>
+      <circle class="cls-28" cx="416.7" cy="803.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(338.3 735.3)"><tspan x="0" y="0">Slovak Republic</tspan></text>
+  <circle id="_20000000000-15" data-name="20000000000" class="cls-13" cx="583.3" cy="803.3" r="4"/>
+  <rect id="_0-28" data-name="0" class="cls-13" x="583.3" y="803.3"/>
+  <g id="_10" data-name="10">
+    <path class="cls-3" d="M584.2,803.8c-.1.1-.7-.2-.9-.5-.3-.5-.1-3,0-3,.1,0,1.1,3.3.9,3.5"/>
+    <g id="dots-25" data-name="dots">
+      <circle class="cls-28" cx="583.3" cy="800.3" r="1"/>
+      <circle class="cls-28" cx="584.2" cy="803.8" r="1"/>
+      <circle class="cls-28" cx="583.3" cy="803.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(505 735.3)"><tspan x="0" y="0">Singapore</tspan></text>
+  <rect id="_0-29" data-name="0" class="cls-13" x="750" y="803.3"/>
+  <g id="_6" data-name="6">
+    <path class="cls-3" d="M750.9,803.8l-.9-.5h0l.9.5"/>
+    <g id="dots-26" data-name="dots">
+      <circle class="cls-28" cx="750" cy="803.3" r="1"/>
+      <circle class="cls-28" cx="750.9" cy="803.8" r="1"/>
+      <circle class="cls-28" cx="750" cy="803.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(671.7 735.3)"><tspan x="0" y="0">Croatia</tspan></text>
+  <rect id="_0-30" data-name="0" class="cls-13" x="916.7" y="803.3"/>
+  <g id="_18" data-name="18">
+    <path class="cls-3" d="M916.7,803.3h0"/>
+    <g id="dots-27" data-name="dots">
+      <circle class="cls-28" cx="916.7" cy="803.3" r="1"/>
+      <circle class="cls-28" cx="916.7" cy="803.3" r="1"/>
+      <circle class="cls-28" cx="916.7" cy="803.3" r="1"/>
+    </g>
+  </g>
+  <text class="cls-33" transform="translate(838.3 735.3)"><tspan x="0" y="0">Canada</tspan></text>
+  <text class="cls-33" transform="translate(204.6 15.3)"><tspan x="0" y="0">France</tspan></text>
+</svg>

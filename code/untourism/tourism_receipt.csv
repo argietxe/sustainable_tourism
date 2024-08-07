@@ -1,0 +1,712 @@
+code;country;curency;year;powercode;revenue
+AUS;Australia;US Dollars;2008;Millions;31159.8
+AUS;Australia;US Dollars;2009;Millions;29980.7
+AUS;Australia;US Dollars;2010;Millions;35165.5
+AUS;Australia;US Dollars;2011;Millions;38710.1
+AUS;Australia;US Dollars;2012;Millions;38003.7
+AUS;Australia;US Dollars;2013;Millions;36965
+AUS;Australia;US Dollars;2014;Millions;38047.9
+AUS;Australia;US Dollars;2015;Millions;36226
+AUS;Australia;US Dollars;2016;Millions;39082.3
+AUS;Australia;US Dollars;2017;Millions;43974.4
+AUS;Australia;US Dollars;2018;Millions;47259.8
+AUS;Australia;US Dollars;2019;Millions;47930.9
+AUS;Australia;US Dollars;2020;Millions;26414.1
+AUT;Austria;US Dollars;2008;Millions;21499.2
+AUT;Austria;US Dollars;2009;Millions;19302.8
+AUT;Austria;US Dollars;2010;Millions;18577.7
+AUT;Austria;US Dollars;2011;Millions;19833
+AUT;Austria;US Dollars;2012;Millions;21389.2
+AUT;Austria;US Dollars;2013;Millions;22741.3
+AUT;Austria;US Dollars;2014;Millions;23174.4
+AUT;Austria;US Dollars;2015;Millions;20360.8
+AUT;Austria;US Dollars;2016;Millions;20978
+AUT;Austria;US Dollars;2017;Millions;22539.4
+AUT;Austria;US Dollars;2018;Millions;25277.1
+AUT;Austria;US Dollars;2019;Millions;25890.1
+AUT;Austria;US Dollars;2020;Millions;15346.5
+AUT;Austria;US Dollars;2021;Millions;11938.583
+BEL;Belgium;US Dollars;2008;Millions;13117.515
+BEL;Belgium;US Dollars;2009;Millions;13008.393
+BEL;Belgium;US Dollars;2010;Millions;12695.1
+BEL;Belgium;US Dollars;2011;Millions;14081
+BEL;Belgium;US Dollars;2012;Millions;13722.8
+BEL;Belgium;US Dollars;2013;Millions;14528.3
+BEL;Belgium;US Dollars;2014;Millions;15255.2
+BEL;Belgium;US Dollars;2015;Millions;8977.1
+BEL;Belgium;US Dollars;2016;Millions;8785.5
+BEL;Belgium;US Dollars;2017;Millions;9622.6
+BEL;Belgium;US Dollars;2018;Millions;10331
+BEL;Belgium;US Dollars;2019;Millions;10590.3
+BEL;Belgium;US Dollars;2020;Millions;7458.5
+BRA;Brazil;US Dollars;2008;Millions;6109.375
+BRA;Brazil;US Dollars;2009;Millions;5634.802
+BRA;Brazil;US Dollars;2010;Millions;5521.89
+BRA;Brazil;US Dollars;2011;Millions;6369.69
+BRA;Brazil;US Dollars;2012;Millions;6623.421
+BRA;Brazil;US Dollars;2013;Millions;6783.68
+BRA;Brazil;US Dollars;2014;Millions;7404.353
+BRA;Brazil;US Dollars;2015;Millions;6254.328
+BRA;Brazil;US Dollars;2016;Millions;6612.773
+BRA;Brazil;US Dollars;2017;Millions;6175.036
+BRA;Brazil;US Dollars;2018;Millions;6323.462
+BRA;Brazil;US Dollars;2019;Millions;6126.813
+BRA;Brazil;US Dollars;2020;Millions;3099.112
+BGR;Bulgaria;US Dollars;2008;Millions;4646.894
+BGR;Bulgaria;US Dollars;2009;Millions;4113.433
+BGR;Bulgaria;US Dollars;2010;Millions;3883.292
+BGR;Bulgaria;US Dollars;2011;Millions;4235.306
+BGR;Bulgaria;US Dollars;2012;Millions;4043.182
+BGR;Bulgaria;US Dollars;2013;Millions;4419.231
+BGR;Bulgaria;US Dollars;2014;Millions;4494.463
+BGR;Bulgaria;US Dollars;2015;Millions;3574.179
+BGR;Bulgaria;US Dollars;2016;Millions;4141.154
+BGR;Bulgaria;US Dollars;2017;Millions;4598.015
+BGR;Bulgaria;US Dollars;2018;Millions;5093.214
+BGR;Bulgaria;US Dollars;2019;Millions;4832.402
+BGR;Bulgaria;US Dollars;2020;Millions;1779.153
+CAN;Canada;US Dollars;2008;Millions;19603.8
+CAN;Canada;US Dollars;2009;Millions;16767.8
+CAN;Canada;US Dollars;2010;Millions;20240.6
+CAN;Canada;US Dollars;2011;Millions;22296.5
+CAN;Canada;US Dollars;2012;Millions;23438.9
+CAN;Canada;US Dollars;2013;Millions;24190
+CAN;Canada;US Dollars;2014;Millions;24580.2
+CAN;Canada;US Dollars;2015;Millions;23083.7
+CAN;Canada;US Dollars;2016;Millions;25685.4
+CAN;Canada;US Dollars;2017;Millions;28459.1
+CAN;Canada;US Dollars;2018;Millions;30836.9
+CAN;Canada;US Dollars;2019;Millions;33406.1
+CAN;Canada;US Dollars;2020;Millions;14087.9
+CAN;Canada;US Dollars;2021;Millions;14233.453
+CHL;Chile;US Dollars;2008;Millions;2481
+CHL;Chile;US Dollars;2009;Millions;2379.9
+CHL;Chile;US Dollars;2010;Millions;2362.2
+CHL;Chile;US Dollars;2011;Millions;2722.3
+CHL;Chile;US Dollars;2012;Millions;3158.7
+CHL;Chile;US Dollars;2013;Millions;3170.7
+CHL;Chile;US Dollars;2014;Millions;3202
+CHL;Chile;US Dollars;2015;Millions;3412.9
+CHL;Chile;US Dollars;2016;Millions;3744
+CHL;Chile;US Dollars;2017;Millions;4114.9
+CHL;Chile;US Dollars;2018;Millions;3910.6
+CHL;Chile;US Dollars;2019;Millions;3278.2
+CHL;Chile;US Dollars;2020;Millions;1033.1
+CHL;Chile;US Dollars;2021;Millions;633.102
+COL;Colombia;US Dollars;2008;Millions;2965.7
+COL;Colombia;US Dollars;2009;Millions;3080.2
+COL;Colombia;US Dollars;2010;Millions;3472.5
+COL;Colombia;US Dollars;2011;Millions;3841
+COL;Colombia;US Dollars;2012;Millions;4408.8
+COL;Colombia;US Dollars;2013;Millions;4819
+COL;Colombia;US Dollars;2014;Millions;4940.6
+COL;Colombia;US Dollars;2015;Millions;5281
+COL;Colombia;US Dollars;2016;Millions;5631.1
+COL;Colombia;US Dollars;2017;Millions;5898.6
+COL;Colombia;US Dollars;2018;Millions;6655
+COL;Colombia;US Dollars;2019;Millions;6784.6
+COL;Colombia;US Dollars;2020;Millions;1944.8
+CRI;Costa Rica;US Dollars;2008;Millions;2811.9
+CRI;Costa Rica;US Dollars;2009;Millions;2215.8
+CRI;Costa Rica;US Dollars;2010;Millions;2426.4
+CRI;Costa Rica;US Dollars;2011;Millions;2645.7
+CRI;Costa Rica;US Dollars;2012;Millions;2772.7
+CRI;Costa Rica;US Dollars;2013;Millions;3170.9
+CRI;Costa Rica;US Dollars;2014;Millions;3137.2
+CRI;Costa Rica;US Dollars;2015;Millions;3409
+CRI;Costa Rica;US Dollars;2016;Millions;3776.3
+CRI;Costa Rica;US Dollars;2017;Millions;3757.9
+CRI;Costa Rica;US Dollars;2018;Millions;4072.3
+CRI;Costa Rica;US Dollars;2019;Millions;4339.9
+CRI;Costa Rica;US Dollars;2020;Millions;1450.3
+HRV;Croatia;US Dollars;2008;Millions;10031.71
+HRV;Croatia;US Dollars;2009;Millions;8109.988
+HRV;Croatia;US Dollars;2010;Millions;8449.098
+HRV;Croatia;US Dollars;2011;Millions;9433.202
+HRV;Croatia;US Dollars;2012;Millions;9018.457
+HRV;Croatia;US Dollars;2013;Millions;9721.004
+HRV;Croatia;US Dollars;2014;Millions;8885.426
+HRV;Croatia;US Dollars;2015;Millions;8160.331
+HRV;Croatia;US Dollars;2016;Millions;9107.381
+HRV;Croatia;US Dollars;2017;Millions;10254.173
+HRV;Croatia;US Dollars;2018;Millions;11425.329
+HRV;Croatia;US Dollars;2019;Millions;11994.171
+HRV;Croatia;US Dollars;2020;Millions;5238.312
+HRV;Croatia;US Dollars;2021;Millions;10879.564
+CZE;Czechia;US Dollars;2008;Millions;8801.611
+CZE;Czechia;US Dollars;2009;Millions;7874.834
+CZE;Czechia;US Dollars;2010;Millions;8065.4
+CZE;Czechia;US Dollars;2011;Millions;8929
+CZE;Czechia;US Dollars;2012;Millions;8174.1
+CZE;Czechia;US Dollars;2013;Millions;7792.6
+CZE;Czechia;US Dollars;2014;Millions;7619.6
+CZE;Czechia;US Dollars;2015;Millions;6766.5
+CZE;Czechia;US Dollars;2016;Millions;7039.7
+CZE;Czechia;US Dollars;2017;Millions;7655.4
+CZE;Czechia;US Dollars;2018;Millions;8281.5
+CZE;Czechia;US Dollars;2019;Millions;7968.6
+CZE;Czechia;US Dollars;2020;Millions;3886.1
+DNK;Denmark;US Dollars;2008;Millions;8751.64
+DNK;Denmark;US Dollars;2009;Millions;7501.394
+DNK;Denmark;US Dollars;2010;Millions;7778.2
+DNK;Denmark;US Dollars;2011;Millions;8916.4
+DNK;Denmark;US Dollars;2012;Millions;8763.5
+DNK;Denmark;US Dollars;2013;Millions;9957.3
+DNK;Denmark;US Dollars;2014;Millions;10416.7
+DNK;Denmark;US Dollars;2015;Millions;8936.3
+DNK;Denmark;US Dollars;2016;Millions;9857.4
+DNK;Denmark;US Dollars;2017;Millions;11341.8
+DNK;Denmark;US Dollars;2018;Millions;11671.6
+DNK;Denmark;US Dollars;2019;Millions;11106.4
+DNK;Denmark;US Dollars;2020;Millions;4837.9
+DNK;Denmark;US Dollars;2021;Millions;5534.814
+EGY;Egypt;US Dollars;2008;Millions;12103.8
+EGY;Egypt;US Dollars;2009;Millions;11756.9
+EGY;Egypt;US Dollars;2010;Millions;13633.1
+EGY;Egypt;US Dollars;2011;Millions;9333.2
+EGY;Egypt;US Dollars;2012;Millions;10822.7
+EGY;Egypt;US Dollars;2013;Millions;6746.7
+EGY;Egypt;US Dollars;2014;Millions;7978.1
+EGY;Egypt;US Dollars;2015;Millions;6896.8
+EGY;Egypt;US Dollars;2016;Millions;3253.532
+EGY;Egypt;US Dollars;2017;Millions;8636.3
+EGY;Egypt;US Dollars;2018;Millions;12704
+EGY;Egypt;US Dollars;2019;Millions;14256.4
+EGY;Egypt;US Dollars;2020;Millions;4873.1
+EST;Estonia;US Dollars;2008;Millions;1626.533
+EST;Estonia;US Dollars;2009;Millions;1437.408
+EST;Estonia;US Dollars;2010;Millions;1421.3
+EST;Estonia;US Dollars;2011;Millions;1675.9
+EST;Estonia;US Dollars;2012;Millions;1593.6
+EST;Estonia;US Dollars;2013;Millions;2063.2
+EST;Estonia;US Dollars;2014;Millions;2276.4
+EST;Estonia;US Dollars;2015;Millions;1882.6
+EST;Estonia;US Dollars;2016;Millions;1906.4
+EST;Estonia;US Dollars;2017;Millions;2115
+EST;Estonia;US Dollars;2018;Millions;2331.3
+EST;Estonia;US Dollars;2019;Millions;2311.9
+EST;Estonia;US Dollars;2020;Millions;869.5
+FIN;Finland;US Dollars;2008;Millions;3742.294
+FIN;Finland;US Dollars;2009;Millions;3237.845
+FIN;Finland;US Dollars;2010;Millions;3520.996
+FIN;Finland;US Dollars;2011;Millions;5577.872
+FIN;Finland;US Dollars;2012;Millions;5427.692
+FIN;Finland;US Dollars;2013;Millions;5777.3
+FIN;Finland;US Dollars;2014;Millions;5466.7
+FIN;Finland;US Dollars;2015;Millions;4009.8
+FIN;Finland;US Dollars;2016;Millions;4015.8
+FIN;Finland;US Dollars;2017;Millions;5188.6
+FIN;Finland;US Dollars;2018;Millions;5766.6
+FIN;Finland;US Dollars;2019;Millions;5597.4
+FIN;Finland;US Dollars;2020;Millions;1784.1
+FRA;France;US Dollars;2008;Millions;66878.091
+FRA;France;US Dollars;2009;Millions;58610.002
+FRA;France;US Dollars;2010;Millions;56735.9
+FRA;France;US Dollars;2011;Millions;65728.1
+FRA;France;US Dollars;2012;Millions;64306.3
+FRA;France;US Dollars;2013;Millions;66169.5
+FRA;France;US Dollars;2014;Millions;67113.3
+FRA;France;US Dollars;2015;Millions;66461
+FRA;France;US Dollars;2016;Millions;63387.9
+FRA;France;US Dollars;2017;Millions;67342.6
+FRA;France;US Dollars;2018;Millions;72693.6
+FRA;France;US Dollars;2019;Millions;70867.2
+FRA;France;US Dollars;2020;Millions;35915.2
+DEU;Germany;US Dollars;2008;Millions;53187.828
+DEU;Germany;US Dollars;2009;Millions;47203.349
+DEU;Germany;US Dollars;2010;Millions;49284.8
+DEU;Germany;US Dollars;2011;Millions;53403.7
+DEU;Germany;US Dollars;2012;Millions;51724.3
+DEU;Germany;US Dollars;2013;Millions;54944.2
+DEU;Germany;US Dollars;2014;Millions;58160.4
+DEU;Germany;US Dollars;2015;Millions;50187.8
+DEU;Germany;US Dollars;2016;Millions;52199.4
+DEU;Germany;US Dollars;2017;Millions;40095.8
+DEU;Germany;US Dollars;2018;Millions;59797.7
+DEU;Germany;US Dollars;2019;Millions;41805.7
+DEU;Germany;US Dollars;2020;Millions;22079.8
+GRC;Greece;US Dollars;2008;Millions;17212.437
+GRC;Greece;US Dollars;2009;Millions;14562.259
+GRC;Greece;US Dollars;2010;Millions;12843.3
+GRC;Greece;US Dollars;2011;Millions;14871.1
+GRC;Greece;US Dollars;2012;Millions;14876.2
+GRC;Greece;US Dollars;2013;Millions;17489.1
+GRC;Greece;US Dollars;2014;Millions;19465
+GRC;Greece;US Dollars;2015;Millions;17557.2
+GRC;Greece;US Dollars;2016;Millions;16698.6
+GRC;Greece;US Dollars;2017;Millions;18776.2
+GRC;Greece;US Dollars;2018;Millions;21782
+GRC;Greece;US Dollars;2019;Millions;23081.4
+GRC;Greece;US Dollars;2020;Millions;6114.3
+GRC;Greece;US Dollars;2021;Millions;13745.072
+HUN;Hungary;US Dollars;2008;Millions;6997.995
+HUN;Hungary;US Dollars;2009;Millions;6650.088
+HUN;Hungary;US Dollars;2010;Millions;6746.2
+HUN;Hungary;US Dollars;2011;Millions;7276.3
+HUN;Hungary;US Dollars;2012;Millions;6156.7
+HUN;Hungary;US Dollars;2013;Millions;6675.4
+HUN;Hungary;US Dollars;2014;Millions;7483.4
+HUN;Hungary;US Dollars;2015;Millions;6934.2
+HUN;Hungary;US Dollars;2016;Millions;7468.6
+HUN;Hungary;US Dollars;2017;Millions;8377.3
+HUN;Hungary;US Dollars;2018;Millions;9654.9
+HUN;Hungary;US Dollars;2019;Millions;10249.1
+HUN;Hungary;US Dollars;2020;Millions;4191.6
+HUN;Hungary;US Dollars;2021;Millions;5734.588
+ISL;Iceland;US Dollars;2008;Millions;836.54
+ISL;Iceland;US Dollars;2009;Millions;1257.888
+ISL;Iceland;US Dollars;2010;Millions;1331.972
+ISL;Iceland;US Dollars;2011;Millions;1694.596
+ISL;Iceland;US Dollars;2012;Millions;1914.146
+ISL;Iceland;US Dollars;2013;Millions;2264.2
+ISL;Iceland;US Dollars;2014;Millions;2608.9
+ISL;Iceland;US Dollars;2015;Millions;2801.4
+ISL;Iceland;US Dollars;2016;Millions;3828.6
+ISL;Iceland;US Dollars;2017;Millions;4693.5
+ISL;Iceland;US Dollars;2018;Millions;4795.7
+ISL;Iceland;US Dollars;2019;Millions;3816
+ISL;Iceland;US Dollars;2020;Millions;658.7
+IND;India;US Dollars;2008;Millions;12462.151
+IND;India;US Dollars;2009;Millions;11220.682
+IND;India;US Dollars;2010;Millions;14489.7
+IND;India;US Dollars;2011;Millions;17707.5
+IND;India;US Dollars;2012;Millions;18339.961
+IND;India;US Dollars;2013;Millions;19041.736
+IND;India;US Dollars;2014;Millions;20756.16
+IND;India;US Dollars;2015;Millions;21471.224
+IND;India;US Dollars;2016;Millions;23111.129
+IND;India;US Dollars;2017;Millions;27877.838
+IND;India;US Dollars;2018;Millions;29142.986
+IND;India;US Dollars;2019;Millions;31661.062
+IND;India;US Dollars;2020;Millions;13412.939
+IDN;Indonesia;US Dollars;2008;Millions;8150.699
+IDN;Indonesia;US Dollars;2009;Millions;6052.56
+IDN;Indonesia;US Dollars;2010;Millions;7617.711
+IDN;Indonesia;US Dollars;2011;Millions;9038.06
+IDN;Indonesia;US Dollars;2012;Millions;9462.13
+IDN;Indonesia;US Dollars;2013;Millions;10302.62
+IDN;Indonesia;US Dollars;2014;Millions;11566.72
+IDN;Indonesia;US Dollars;2015;Millions;12053.886
+IDN;Indonesia;US Dollars;2016;Millions;12565.247
+IDN;Indonesia;US Dollars;2017;Millions;14691.072
+IDN;Indonesia;US Dollars;2018;Millions;17915.112
+IDN;Indonesia;US Dollars;2019;Millions;18405.069
+IDN;Indonesia;US Dollars;2020;Millions;3532.288
+IRL;Ireland;US Dollars;2008;Millions;6279.708
+IRL;Ireland;US Dollars;2009;Millions;8410.167
+IRL;Ireland;US Dollars;2010;Millions;8244.542
+IRL;Ireland;US Dollars;2011;Millions;9466.814
+IRL;Ireland;US Dollars;2012;Millions;9304.4
+IRL;Ireland;US Dollars;2013;Millions;10180.1
+IRL;Ireland;US Dollars;2014;Millions;11094.3
+IRL;Ireland;US Dollars;2015;Millions;11489
+IRL;Ireland;US Dollars;2016;Millions;12614.2
+IRL;Ireland;US Dollars;2017;Millions;14167.3
+IRL;Ireland;US Dollars;2018;Millions;15370.2
+IRL;Ireland;US Dollars;2019;Millions;14885.7
+IRL;Ireland;US Dollars;2020;Millions;4196.4
+ISR;Israel;US Dollars;2008;Millions;5029.8
+ISR;Israel;US Dollars;2009;Millions;5067.099
+ISR;Israel;US Dollars;2010;Millions;5816.8
+ISR;Israel;US Dollars;2011;Millions;5886.4
+ISR;Israel;US Dollars;2012;Millions;6183.1
+ISR;Israel;US Dollars;2013;Millions;6599.8
+ISR;Israel;US Dollars;2014;Millions;6616.2
+ISR;Israel;US Dollars;2015;Millions;6605.2
+ISR;Israel;US Dollars;2016;Millions;6616.2
+ISR;Israel;US Dollars;2017;Millions;7601.8
+ISR;Israel;US Dollars;2018;Millions;8047.6
+ISR;Israel;US Dollars;2019;Millions;8438.6
+ISR;Israel;US Dollars;2020;Millions;2661
+ISR;Israel;US Dollars;2021;Millions;2517
+ITA;Italy;US Dollars;2008;Millions;48073.314
+ITA;Italy;US Dollars;2009;Millions;41638.913
+ITA;Italy;US Dollars;2010;Millions;40414.6
+ITA;Italy;US Dollars;2011;Millions;45114.2
+ITA;Italy;US Dollars;2012;Millions;43268.4
+ITA;Italy;US Dollars;2013;Millions;46271
+ITA;Italy;US Dollars;2014;Millions;47777.5
+ITA;Italy;US Dollars;2015;Millions;41537.1
+ITA;Italy;US Dollars;2016;Millions;42338.4
+ITA;Italy;US Dollars;2017;Millions;46360.2
+ITA;Italy;US Dollars;2018;Millions;51796.4
+ITA;Italy;US Dollars;2019;Millions;51988.2
+ITA;Italy;US Dollars;2020;Millions;20226.2
+JPN;Japan;US Dollars;2008;Millions;13790.6
+JPN;Japan;US Dollars;2009;Millions;12506.2
+JPN;Japan;US Dollars;2010;Millions;15334.8
+JPN;Japan;US Dollars;2011;Millions;12500.1
+JPN;Japan;US Dollars;2012;Millions;16192.2
+JPN;Japan;US Dollars;2013;Millions;16904.6
+JPN;Japan;US Dollars;2014;Millions;20828.9
+JPN;Japan;US Dollars;2015;Millions;27300.6
+JPN;Japan;US Dollars;2016;Millions;33382.8
+JPN;Japan;US Dollars;2017;Millions;36967.1
+JPN;Japan;US Dollars;2018;Millions;45276.1
+JPN;Japan;US Dollars;2019;Millions;49209.8
+JPN;Japan;US Dollars;2020;Millions;11507.3
+KOR;Korea;US Dollars;2008;Millions;13439.8
+KOR;Korea;US Dollars;2009;Millions;13262.1
+KOR;Korea;US Dollars;2010;Millions;14314.7
+KOR;Korea;US Dollars;2011;Millions;17329.3
+KOR;Korea;US Dollars;2012;Millions;18730.8
+KOR;Korea;US Dollars;2013;Millions;19457.7
+KOR;Korea;US Dollars;2014;Millions;22390.1
+KOR;Korea;US Dollars;2015;Millions;18711.5
+KOR;Korea;US Dollars;2016;Millions;20923.3
+KOR;Korea;US Dollars;2017;Millions;17173.1
+KOR;Korea;US Dollars;2018;Millions;23104.1
+KOR;Korea;US Dollars;2019;Millions;25456.7
+KOR;Korea;US Dollars;2020;Millions;11775.3
+LVA;Latvia;US Dollars;2008;Millions;1120.6
+LVA;Latvia;US Dollars;2009;Millions;997.4
+LVA;Latvia;US Dollars;2010;Millions;961.8
+LVA;Latvia;US Dollars;2011;Millions;1104.9
+LVA;Latvia;US Dollars;2012;Millions;1070.6
+LVA;Latvia;US Dollars;2013;Millions;1189.5
+LVA;Latvia;US Dollars;2014;Millions;1298
+LVA;Latvia;US Dollars;2015;Millions;1282.7
+LVA;Latvia;US Dollars;2016;Millions;1312.8
+LVA;Latvia;US Dollars;2017;Millions;1409.9
+LVA;Latvia;US Dollars;2018;Millions;1625
+LVA;Latvia;US Dollars;2019;Millions;1565.1
+LVA;Latvia;US Dollars;2020;Millions;546
+LTU;Lithuania;US Dollars;2010;Millions;1042.2
+LTU;Lithuania;US Dollars;2011;Millions;1375.8
+LTU;Lithuania;US Dollars;2012;Millions;1436.4
+LTU;Lithuania;US Dollars;2013;Millions;1502.8
+LTU;Lithuania;US Dollars;2014;Millions;1481.4
+LTU;Lithuania;US Dollars;2015;Millions;1287.9
+LTU;Lithuania;US Dollars;2016;Millions;1379.4
+LTU;Lithuania;US Dollars;2017;Millions;1560.5
+LTU;Lithuania;US Dollars;2018;Millions;1775.2
+LTU;Lithuania;US Dollars;2019;Millions;1614.4
+LTU;Lithuania;US Dollars;2020;Millions;663.3
+LUX;Luxembourg;US Dollars;2008;Millions;4886.366
+LUX;Luxembourg;US Dollars;2009;Millions;4484.172
+LUX;Luxembourg;US Dollars;2010;Millions;6057.2
+LUX;Luxembourg;US Dollars;2011;Millions;7395.4
+LUX;Luxembourg;US Dollars;2012;Millions;7316.8
+LUX;Luxembourg;US Dollars;2013;Millions;7745.6
+LUX;Luxembourg;US Dollars;2014;Millions;7963
+LUX;Luxembourg;US Dollars;2015;Millions;6183.3
+LUX;Luxembourg;US Dollars;2016;Millions;6195.4
+LUX;Luxembourg;US Dollars;2017;Millions;6170.3
+LUX;Luxembourg;US Dollars;2018;Millions;6651.1
+LUX;Luxembourg;US Dollars;2019;Millions;6309.3
+LUX;Luxembourg;US Dollars;2020;Millions;5099.9
+MLT;Malta;US Dollars;2008;Millions;1082.982
+MLT;Malta;US Dollars;2009;Millions;899.538
+MLT;Malta;US Dollars;2010;Millions;1066.266
+MLT;Malta;US Dollars;2011;Millions;1461.553
+MLT;Malta;US Dollars;2012;Millions;1471.083
+MLT;Malta;US Dollars;2013;Millions;1649.523
+MLT;Malta;US Dollars;2014;Millions;1784.192
+MLT;Malta;US Dollars;2015;Millions;1677.472
+MLT;Malta;US Dollars;2016;Millions;2040.576
+MLT;Malta;US Dollars;2017;Millions;2412.999
+MLT;Malta;US Dollars;2018;Millions;1848.837
+MLT;Malta;US Dollars;2019;Millions;1897.011
+MLT;Malta;US Dollars;2020;Millions;416.673
+MEX;Mexico;US Dollars;2008;Millions;14725.8
+MEX;Mexico;US Dollars;2009;Millions;12542
+MEX;Mexico;US Dollars;2010;Millions;12627.8
+MEX;Mexico;US Dollars;2011;Millions;12457.4
+MEX;Mexico;US Dollars;2012;Millions;13319.9
+MEX;Mexico;US Dollars;2013;Millions;14311
+MEX;Mexico;US Dollars;2014;Millions;16606.9
+MEX;Mexico;US Dollars;2015;Millions;18728.2
+MEX;Mexico;US Dollars;2016;Millions;20619.2
+MEX;Mexico;US Dollars;2017;Millions;22467
+MEX;Mexico;US Dollars;2018;Millions;23802.7
+MEX;Mexico;US Dollars;2019;Millions;25847.6
+MEX;Mexico;US Dollars;2020;Millions;11448.3
+MAR;Morocco;US Dollars;2008;Millions;8885.29
+MAR;Morocco;US Dollars;2009;Millions;7980.05
+MAR;Morocco;US Dollars;2010;Millions;8175.29
+MAR;Morocco;US Dollars;2011;Millions;9100.43
+MAR;Morocco;US Dollars;2012;Millions;8491.42
+MAR;Morocco;US Dollars;2013;Millions;8201.69
+MAR;Morocco;US Dollars;2014;Millions;9070.541
+MAR;Morocco;US Dollars;2015;Millions;7764.412
+MAR;Morocco;US Dollars;2016;Millions;7922.678
+MAR;Morocco;US Dollars;2017;Millions;9086.243
+MAR;Morocco;US Dollars;2018;Millions;9519.997
+MAR;Morocco;US Dollars;2019;Millions;9948.645
+MAR;Morocco;US Dollars;2020;Millions;4513.64
+NLD;Netherlands;US Dollars;2008;Millions;20226.717
+NLD;Netherlands;US Dollars;2009;Millions;17762.03
+NLD;Netherlands;US Dollars;2010;Millions;18709.279
+NLD;Netherlands;US Dollars;2011;Millions;20925.357
+NLD;Netherlands;US Dollars;2012;Millions;20219.939
+NLD;Netherlands;US Dollars;2013;Millions;19429.3
+NLD;Netherlands;US Dollars;2014;Millions;22220.3
+NLD;Netherlands;US Dollars;2015;Millions;20313.5
+NLD;Netherlands;US Dollars;2016;Millions;21152.1
+NLD;Netherlands;US Dollars;2017;Millions;23882.6
+NLD;Netherlands;US Dollars;2018;Millions;26605.8
+NLD;Netherlands;US Dollars;2019;Millions;26825.1
+NLD;Netherlands;US Dollars;2020;Millions;12459.8
+NLD;Netherlands;US Dollars;2021;Millions;12482.644
+NZL;New Zealand;US Dollars;2008;Millions;7933.4
+NZL;New Zealand;US Dollars;2009;Millions;7054.3
+NZL;New Zealand;US Dollars;2010;Millions;7571.5
+NZL;New Zealand;US Dollars;2011;Millions;8547.8
+NZL;New Zealand;US Dollars;2012;Millions;8338.4
+NZL;New Zealand;US Dollars;2013;Millions;8697.7
+NZL;New Zealand;US Dollars;2014;Millions;9904.3
+NZL;New Zealand;US Dollars;2015;Millions;10533
+NZL;New Zealand;US Dollars;2016;Millions;10969.1
+NZL;New Zealand;US Dollars;2017;Millions;11873.4
+NZL;New Zealand;US Dollars;2018;Millions;12211.6
+NZL;New Zealand;US Dollars;2019;Millions;11777.2
+NZL;New Zealand;US Dollars;2020;Millions;6372.2
+NOR;Norway;US Dollars;2008;Millions;4770.9
+NOR;Norway;US Dollars;2009;Millions;4154.4
+NOR;Norway;US Dollars;2010;Millions;4706.9
+NOR;Norway;US Dollars;2011;Millions;5307.6
+NOR;Norway;US Dollars;2012;Millions;5442
+NOR;Norway;US Dollars;2013;Millions;5642
+NOR;Norway;US Dollars;2014;Millions;5574.9
+NOR;Norway;US Dollars;2015;Millions;4873
+NOR;Norway;US Dollars;2016;Millions;5204.2
+NOR;Norway;US Dollars;2017;Millions;5558
+NOR;Norway;US Dollars;2018;Millions;5928.6
+NOR;Norway;US Dollars;2019;Millions;5854.6
+NOR;Norway;US Dollars;2020;Millions;1564.3
+PHL;Philippines;US Dollars;2008;Millions;3292.456
+PHL;Philippines;US Dollars;2009;Millions;2916.122
+PHL;Philippines;US Dollars;2010;Millions;3441.519
+PHL;Philippines;US Dollars;2011;Millions;4052.71
+PHL;Philippines;US Dollars;2012;Millions;4962.572
+PHL;Philippines;US Dollars;2013;Millions;5598.213
+PHL;Philippines;US Dollars;2014;Millions;6058.739
+PHL;Philippines;US Dollars;2015;Millions;6414.762
+PHL;Philippines;US Dollars;2016;Millions;6288.95
+PHL;Philippines;US Dollars;2017;Millions;8348.674
+PHL;Philippines;US Dollars;2018;Millions;9729.897
+PHL;Philippines;US Dollars;2019;Millions;9823.652
+POL;Poland;US Dollars;2008;Millions;12711.476
+POL;Poland;US Dollars;2009;Millions;9735.141
+POL;Poland;US Dollars;2010;Millions;9929.7
+POL;Poland;US Dollars;2011;Millions;11406.9
+POL;Poland;US Dollars;2012;Millions;11728.1
+POL;Poland;US Dollars;2013;Millions;12261.5
+POL;Poland;US Dollars;2014;Millions;12666.6
+POL;Poland;US Dollars;2015;Millions;11154.1
+POL;Poland;US Dollars;2016;Millions;11902.6
+POL;Poland;US Dollars;2017;Millions;14001.7
+POL;Poland;US Dollars;2018;Millions;15719.7
+POL;Poland;US Dollars;2019;Millions;16021.9
+POL;Poland;US Dollars;2020;Millions;8803.9
+PRT;Portugal;US Dollars;2008;Millions;13949.258
+PRT;Portugal;US Dollars;2009;Millions;12210.135
+PRT;Portugal;US Dollars;2010;Millions;13063.6
+PRT;Portugal;US Dollars;2011;Millions;14862
+PRT;Portugal;US Dollars;2012;Millions;14638.9
+PRT;Portugal;US Dollars;2013;Millions;16092.8
+PRT;Portugal;US Dollars;2014;Millions;17584
+PRT;Portugal;US Dollars;2015;Millions;16006.9
+PRT;Portugal;US Dollars;2016;Millions;17314.1
+PRT;Portugal;US Dollars;2017;Millions;21397.2
+PRT;Portugal;US Dollars;2018;Millions;24444.5
+PRT;Portugal;US Dollars;2019;Millions;24625.1
+PRT;Portugal;US Dollars;2020;Millions;10519.6
+PRT;Portugal;US Dollars;2021;Millions;13779.885
+ROU;Romania;US Dollars;2008;Millions;1991.704
+ROU;Romania;US Dollars;2009;Millions;1230.581
+ROU;Romania;US Dollars;2010;Millions;1135.413
+ROU;Romania;US Dollars;2011;Millions;1419.374
+ROU;Romania;US Dollars;2012;Millions;1465.682
+ROU;Romania;US Dollars;2013;Millions;2288.115
+ROU;Romania;US Dollars;2014;Millions;2389.973
+ROU;Romania;US Dollars;2015;Millions;2228.766
+ROU;Romania;US Dollars;2016;Millions;2471.987
+ROU;Romania;US Dollars;2017;Millions;3529.754
+ROU;Romania;US Dollars;2018;Millions;3886.886
+ROU;Romania;US Dollars;2019;Millions;4246.026
+ROU;Romania;US Dollars;2020;Millions;1608.462
+RUS;Russia;US Dollars;2009;Millions;12369.8
+RUS;Russia;US Dollars;2010;Millions;13239.9
+RUS;Russia;US Dollars;2011;Millions;16961
+RUS;Russia;US Dollars;2012;Millions;17875.6
+RUS;Russia;US Dollars;2013;Millions;20198.8
+RUS;Russia;US Dollars;2014;Millions;19451.1
+RUS;Russia;US Dollars;2015;Millions;13185.6
+RUS;Russia;US Dollars;2016;Millions;12821.8
+RUS;Russia;US Dollars;2017;Millions;14937.4
+RUS;Russia;US Dollars;2018;Millions;18735.4
+RUS;Russia;US Dollars;2019;Millions;17669.9
+SVK;Slovak Republic;US Dollars;2008;Millions;2989.323
+SVK;Slovak Republic;US Dollars;2009;Millions;2528.278
+SVK;Slovak Republic;US Dollars;2010;Millions;2339.324
+SVK;Slovak Republic;US Dollars;2011;Millions;2509.528
+SVK;Slovak Republic;US Dollars;2012;Millions;2371.728
+SVK;Slovak Republic;US Dollars;2013;Millions;2607.5
+SVK;Slovak Republic;US Dollars;2014;Millions;2556.6
+SVK;Slovak Republic;US Dollars;2015;Millions;2484
+SVK;Slovak Republic;US Dollars;2016;Millions;2809.4
+SVK;Slovak Republic;US Dollars;2017;Millions;3010.2
+SVK;Slovak Republic;US Dollars;2018;Millions;3326.8
+SVK;Slovak Republic;US Dollars;2019;Millions;3353.5
+SVK;Slovak Republic;US Dollars;2020;Millions;1327.5
+SVK;Slovak Republic;US Dollars;2021;Millions;1183.332
+SVN;Slovenia;US Dollars;2008;Millions;2931.775
+SVN;Slovenia;US Dollars;2009;Millions;2719.748
+SVN;Slovenia;US Dollars;2010;Millions;2820.4
+SVN;Slovenia;US Dollars;2011;Millions;3038.7
+SVN;Slovenia;US Dollars;2012;Millions;2804.7
+SVN;Slovenia;US Dollars;2013;Millions;2968.2
+SVN;Slovenia;US Dollars;2014;Millions;3053.2
+SVN;Slovenia;US Dollars;2015;Millions;2593.7
+SVN;Slovenia;US Dollars;2016;Millions;2713.2
+SVN;Slovenia;US Dollars;2017;Millions;3035.9
+SVN;Slovenia;US Dollars;2018;Millions;3388.7
+SVN;Slovenia;US Dollars;2019;Millions;3356.1
+SVN;Slovenia;US Dollars;2020;Millions;1417.7
+ZAF;South Africa;US Dollars;2008;Millions;9178.89
+ZAF;South Africa;US Dollars;2009;Millions;8683.92
+ZAF;South Africa;US Dollars;2010;Millions;10308.6
+ZAF;South Africa;US Dollars;2011;Millions;10706.33
+ZAF;South Africa;US Dollars;2012;Millions;11201.69
+ZAF;South Africa;US Dollars;2013;Millions;10467.55
+ZAF;South Africa;US Dollars;2014;Millions;10484.152
+ZAF;South Africa;US Dollars;2015;Millions;9139.363
+ZAF;South Africa;US Dollars;2016;Millions;8807.601
+ZAF;South Africa;US Dollars;2017;Millions;9706.288
+ZAF;South Africa;US Dollars;2018;Millions;9789.507
+ZAF;South Africa;US Dollars;2019;Millions;9063.867
+ZAF;South Africa;US Dollars;2020;Millions;2716.592
+ZAF;South Africa;US Dollars;2021;Millions;2113
+ESP;Spain;US Dollars;2008;Millions;69759.402
+ESP;Spain;US Dollars;2009;Millions;59315.712
+ESP;Spain;US Dollars;2010;Millions;65652.135
+ESP;Spain;US Dollars;2011;Millions;74981.678
+ESP;Spain;US Dollars;2012;Millions;70835.964
+ESP;Spain;US Dollars;2013;Millions;68517.6
+ESP;Spain;US Dollars;2014;Millions;71583.6
+ESP;Spain;US Dollars;2015;Millions;62475.6
+ESP;Spain;US Dollars;2016;Millions;66802.7
+ESP;Spain;US Dollars;2017;Millions;75329.4
+ESP;Spain;US Dollars;2018;Millions;81684.2
+ESP;Spain;US Dollars;2019;Millions;79708.8
+ESP;Spain;US Dollars;2020;Millions;18505.9
+SWE;Sweden;US Dollars;2008;Millions;11871.464
+SWE;Sweden;US Dollars;2009;Millions;10007.29
+SWE;Sweden;US Dollars;2010;Millions;10820.5
+SWE;Sweden;US Dollars;2011;Millions;12688.5
+SWE;Sweden;US Dollars;2012;Millions;12430.7
+SWE;Sweden;US Dollars;2013;Millions;13514.7
+SWE;Sweden;US Dollars;2014;Millions;14124.3
+SWE;Sweden;US Dollars;2015;Millions;13245.5
+SWE;Sweden;US Dollars;2016;Millions;14851.6
+SWE;Sweden;US Dollars;2017;Millions;16285.9
+SWE;Sweden;US Dollars;2018;Millions;11800.9
+SWE;Sweden;US Dollars;2019;Millions;11018.9
+SWE;Sweden;US Dollars;2020;Millions;4882.2
+CHE;Switzerland;US Dollars;2008;Millions;14401.001
+CHE;Switzerland;US Dollars;2009;Millions;14131.059
+CHE;Switzerland;US Dollars;2010;Millions;14723.735
+CHE;Switzerland;US Dollars;2011;Millions;17099.968
+CHE;Switzerland;US Dollars;2012;Millions;15979.264
+CHE;Switzerland;US Dollars;2013;Millions;16688
+CHE;Switzerland;US Dollars;2014;Millions;21313.5
+CHE;Switzerland;US Dollars;2015;Millions;20119.8
+CHE;Switzerland;US Dollars;2016;Millions;19763.1
+CHE;Switzerland;US Dollars;2017;Millions;20364.6
+CHE;Switzerland;US Dollars;2018;Millions;21290.6
+CHE;Switzerland;US Dollars;2019;Millions;21251.3
+CHE;Switzerland;US Dollars;2020;Millions;10028.1
+CHE;Switzerland;US Dollars;2021;Millions;12096.223
+TUR;Türkiye;US Dollars;2008;Millions;26446
+TUR;Türkiye;US Dollars;2009;Millions;26331
+TUR;Türkiye;US Dollars;2010;Millions;26372
+TUR;Türkiye;US Dollars;2011;Millions;30381.7
+TUR;Türkiye;US Dollars;2012;Millions;31646.3
+TUR;Türkiye;US Dollars;2013;Millions;36266.2
+TUR;Türkiye;US Dollars;2014;Millions;38841.7
+TUR;Türkiye;US Dollars;2015;Millions;35688.1
+TUR;Türkiye;US Dollars;2016;Millions;26791.1
+TUR;Türkiye;US Dollars;2017;Millions;29115.9
+TUR;Türkiye;US Dollars;2018;Millions;37175.3
+TUR;Türkiye;US Dollars;2019;Millions;41284.238
+TUR;Türkiye;US Dollars;2020;Millions;13594.825
+TUR;Türkiye;US Dollars;2021;Millions;28610.572
+GBR;United Kingdom;US Dollars;2008;Millions;47637
+GBR;United Kingdom;US Dollars;2009;Millions;38608.7
+GBR;United Kingdom;US Dollars;2010;Millions;41474.3
+GBR;United Kingdom;US Dollars;2011;Millions;47075.1
+GBR;United Kingdom;US Dollars;2012;Millions;51002.3
+GBR;United Kingdom;US Dollars;2013;Millions;56385.3
+GBR;United Kingdom;US Dollars;2014;Millions;62938.6
+GBR;United Kingdom;US Dollars;2015;Millions;66023.9
+GBR;United Kingdom;US Dollars;2016;Millions;63002.3
+GBR;United Kingdom;US Dollars;2017;Millions;48018.1
+GBR;United Kingdom;US Dollars;2018;Millions;50049.9
+GBR;United Kingdom;US Dollars;2019;Millions;52721
+USA;United States;US Dollars;2008;Millions;149095
+USA;United States;US Dollars;2009;Millions;137114
+USA;United States;US Dollars;2010;Millions;161821
+USA;United States;US Dollars;2011;Millions;178935
+USA;United States;US Dollars;2012;Millions;195114
+USA;United States;US Dollars;2013;Millions;213103
+USA;United States;US Dollars;2014;Millions;222747
+USA;United States;US Dollars;2015;Millions;230574
+USA;United States;US Dollars;2016;Millions;228551
+USA;United States;US Dollars;2017;Millions;233759
+USA;United States;US Dollars;2018;Millions;241985
+USA;United States;US Dollars;2019;Millions;239446
+USA;United States;US Dollars;2020;Millions;84206
+USA;United States;US Dollars;2021;Millions;80956
+CHN;China (People's Republic of);US Dollars;2008;Units;40843
+CHN;China (People's Republic of);US Dollars;2009;Units;39675
+CHN;China (People's Republic of);US Dollars;2010;Units;45814
+CHN;China (People's Republic of);US Dollars;2011;Units;48464
+CHN;China (People's Republic of);US Dollars;2012;Units;50028
+CHN;China (People's Republic of);US Dollars;2013;Units;51664
+CHN;China (People's Republic of);US Dollars;2014;Units;44043.681
+CHN;China (People's Republic of);US Dollars;2015;Units;44968.719
+CHN;China (People's Republic of);US Dollars;2016;Units;44425.974
+CHN;China (People's Republic of);US Dollars;2017;Units;38799.277
+CHN;China (People's Republic of);US Dollars;2018;Units;39467.77
+CHN;China (People's Republic of);US Dollars;2019;Units;34458.292
+KAZ;Kazakhstan;US Dollars;2008;Units;1254.222
+KAZ;Kazakhstan;US Dollars;2009;Units;1184.781
+KAZ;Kazakhstan;US Dollars;2010;Units;1235.482
+KAZ;Kazakhstan;US Dollars;2011;Units;1523.682
+KAZ;Kazakhstan;US Dollars;2012;Units;2154.429
+KAZ;Kazakhstan;US Dollars;2013;Units;2365.365
+KAZ;Kazakhstan;US Dollars;2014;Units;2239.708
+KAZ;Kazakhstan;US Dollars;2015;Units;1833.334
+KAZ;Kazakhstan;US Dollars;2016;Units;2038.191
+KAZ;Kazakhstan;US Dollars;2017;Units;2355.968
+KAZ;Kazakhstan;US Dollars;2018;Units;2650.685
+KAZ;Kazakhstan;US Dollars;2019;Units;2922.729
+KAZ;Kazakhstan;US Dollars;2020;Units;588.673
+PER;Peru;US Dollars;2008;Units;2395.848
+PER;Peru;US Dollars;2009;Units;2439.517
+PER;Peru;US Dollars;2010;Units;2475.1
+PER;Peru;US Dollars;2011;Units;2814.011
+PER;Peru;US Dollars;2012;Units;3073.378
+PER;Peru;US Dollars;2013;Units;3915.833
+PER;Peru;US Dollars;2014;Units;3907.709
+PER;Peru;US Dollars;2015;Units;4139.968
+PER;Peru;US Dollars;2016;Units;4287.711
+PER;Peru;US Dollars;2017;Units;4572.759
+PER;Peru;US Dollars;2018;Units;4504.938
+PER;Peru;US Dollars;2019;Units;4784.276
+PER;Peru;US Dollars;2020;Units;794.382
+PER;Peru;US Dollars;2021;Units;1042.227
+SRB;Serbia;US Dollars;2008;Units;1113.474
+SRB;Serbia;US Dollars;2009;Units;986.527
+SRB;Serbia;US Dollars;2010;Units;949.958
+SRB;Serbia;US Dollars;2011;Units;1149.423
+SRB;Serbia;US Dollars;2012;Units;1079.057
+SRB;Serbia;US Dollars;2013;Units;1221.487
+SRB;Serbia;US Dollars;2014;Units;1352.74
+SRB;Serbia;US Dollars;2015;Units;1321.638
+SRB;Serbia;US Dollars;2016;Units;1460.953
+SRB;Serbia;US Dollars;2017;Units;1706.146
+SRB;Serbia;US Dollars;2018;Units;1941.074
+SRB;Serbia;US Dollars;2019;Units;2000.579
+SRB;Serbia;US Dollars;2020;Units;1421.369

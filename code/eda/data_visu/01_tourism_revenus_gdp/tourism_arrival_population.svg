@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1200 600">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 10px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-6 {
+        fill: #000;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        stroke: #d3d3d3;
+      }
+
+      .cls-7, .cls-10 {
+        fill: #9e5e73;
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-18, .cls-19, .cls-20, .cls-21, .cls-16 {
+        fill: none;
+      }
+
+      .cls-18, .cls-22, .cls-23, .cls-24 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-8 {
+        fill: #c494a4;
+      }
+
+      .cls-9, .cls-25, .cls-13, .cls-24 {
+        fill: #9b6778;
+      }
+
+      .cls-10, .cls-13, .cls-14 {
+        opacity: .5;
+      }
+
+      .cls-25 {
+        fill-opacity: .5;
+      }
+
+      .cls-25, .cls-20 {
+        stroke: #ccc;
+      }
+
+      .cls-11, .cls-14 {
+        fill: #af5171;
+      }
+
+      .cls-12, .cls-22 {
+        fill: #aa5e77;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #7b7b7b;
+      }
+
+      .cls-4, .cls-6 {
+        font-size: 12px;
+      }
+
+      .cls-19 {
+        stroke: #000;
+      }
+
+      .cls-15 {
+        fill: #99425f;
+      }
+
+      .cls-23 {
+        fill: #ccc;
+      }
+
+      .cls-21 {
+        stroke: #756369;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-18" y="0" width="1000" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="series">
+    <g class="cls-17">
+      <g>
+        <g id="axis">
+          <g>
+            <path class="cls-19" d="M50,556v-6h900v6"/>
+            <g>
+              <line class="cls-19" x1="50" y1="550" x2="50" y2="556"/>
+              <text class="cls-1" transform="translate(47.2 567.6)"><tspan x="0" y="0">0</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="110" y1="550" x2="110" y2="556"/>
+              <text class="cls-1" transform="translate(107.2 567.6)"><tspan x="0" y="0">2</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="170" y1="550" x2="170" y2="556"/>
+              <text class="cls-1" transform="translate(167.2 567.6)"><tspan x="0" y="0">4</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="230" y1="550" x2="230" y2="556"/>
+              <text class="cls-1" transform="translate(227.2 567.6)"><tspan x="0" y="0">6</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="290" y1="550" x2="290" y2="556"/>
+              <text class="cls-1" transform="translate(287.2 567.6)"><tspan x="0" y="0">8</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="350" y1="550" x2="350" y2="556"/>
+              <text class="cls-1" transform="translate(344.4 567.6)"><tspan x="0" y="0">10</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="410" y1="550" x2="410" y2="556"/>
+              <text class="cls-1" transform="translate(404.4 567.6)"><tspan x="0" y="0">12</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="470" y1="550" x2="470" y2="556"/>
+              <text class="cls-1" transform="translate(464.4 567.6)"><tspan x="0" y="0">14</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="530" y1="550" x2="530" y2="556"/>
+              <text class="cls-1" transform="translate(524.4 567.6)"><tspan x="0" y="0">16</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="590" y1="550" x2="590" y2="556"/>
+              <text class="cls-1" transform="translate(584.4 567.6)"><tspan x="0" y="0">18</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="650" y1="550" x2="650" y2="556"/>
+              <text class="cls-1" transform="translate(644.4 567.6)"><tspan x="0" y="0">20</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="710" y1="550" x2="710" y2="556"/>
+              <text class="cls-1" transform="translate(704.4 567.6)"><tspan x="0" y="0">22</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="770" y1="550" x2="770" y2="556"/>
+              <text class="cls-1" transform="translate(764.4 567.6)"><tspan x="0" y="0">24</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="830" y1="550" x2="830" y2="556"/>
+              <text class="cls-1" transform="translate(824.4 567.6)"><tspan x="0" y="0">26</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="890" y1="550" x2="890" y2="556"/>
+              <text class="cls-1" transform="translate(884.4 567.6)"><tspan x="0" y="0">28</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="950" y1="550" x2="950" y2="556"/>
+              <text class="cls-1" transform="translate(944.4 567.6)"><tspan x="0" y="0">30</tspan></text>
+            </g>
+            <text class="cls-4" transform="translate(881.9 546.5)"><tspan x="0" y="0">arrival_rank</tspan></text>
+          </g>
+          <g>
+            <path class="cls-19" d="M44,550h6V50h-6"/>
+            <g>
+              <line class="cls-19" x1="50" y1="550" x2="44" y2="550"/>
+              <text class="cls-1" transform="translate(35.4 554.7)"><tspan x="0" y="0">0</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="517" x2="44" y2="517"/>
+              <text class="cls-1" transform="translate(35.4 521.7)"><tspan x="0" y="0">2</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="483" x2="44" y2="483"/>
+              <text class="cls-1" transform="translate(35.4 487.7)"><tspan x="0" y="0">4</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="450" x2="44" y2="450"/>
+              <text class="cls-1" transform="translate(35.4 454.7)"><tspan x="0" y="0">6</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="417" x2="44" y2="417"/>
+              <text class="cls-1" transform="translate(35.4 421.7)"><tspan x="0" y="0">8</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="383" x2="44" y2="383"/>
+              <text class="cls-1" transform="translate(29.9 387.7)"><tspan x="0" y="0">10</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="350" x2="44" y2="350"/>
+              <text class="cls-1" transform="translate(29.9 354.7)"><tspan x="0" y="0">12</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="317" x2="44" y2="317"/>
+              <text class="cls-1" transform="translate(29.9 321.7)"><tspan x="0" y="0">14</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="283" x2="44" y2="283"/>
+              <text class="cls-1" transform="translate(29.9 287.7)"><tspan x="0" y="0">16</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="250" x2="44" y2="250"/>
+              <text class="cls-1" transform="translate(29.9 254.7)"><tspan x="0" y="0">18</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="217" x2="44" y2="217"/>
+              <text class="cls-1" transform="translate(29.9 221.7)"><tspan x="0" y="0">20</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="183" x2="44" y2="183"/>
+              <text class="cls-1" transform="translate(29.9 187.7)"><tspan x="0" y="0">22</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="150" x2="44" y2="150"/>
+              <text class="cls-1" transform="translate(29.9 154.7)"><tspan x="0" y="0">24</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="117" x2="44" y2="117"/>
+              <text class="cls-1" transform="translate(29.9 121.7)"><tspan x="0" y="0">26</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="83" x2="44" y2="83"/>
+              <text class="cls-1" transform="translate(29.9 87.7)"><tspan x="0" y="0">28</tspan></text>
+            </g>
+            <g>
+              <line class="cls-19" x1="50" y1="50" x2="44" y2="50"/>
+              <text class="cls-1" transform="translate(29.9 54.7)"><tspan x="0" y="0">30</tspan></text>
+            </g>
+            <text class="cls-4" transform="translate(54 61.8)"><tspan x="0" y="0">revenue_rank</tspan></text>
+          </g>
+        </g>
+        <g id="viz">
+          <circle class="cls-23" cx="890" cy="217" r="60"/>
+          <circle class="cls-23" cx="920" cy="50" r="29"/>
+          <circle class="cls-23" cx="440" cy="383" r="19"/>
+          <circle class="cls-23" cx="830" cy="317" r="18"/>
+          <circle class="cls-23" cx="170" cy="250" r="18"/>
+          <circle class="cls-23" cx="560" cy="117" r="15"/>
+          <circle class="cls-23" cx="650" cy="167" r="14"/>
+          <circle class="cls-23" cx="380" cy="150" r="14"/>
+          <circle class="cls-23" cx="800" cy="133" r="13"/>
+          <circle class="cls-23" cx="620" cy="100" r="13"/>
+          <circle class="cls-23" cx="950" cy="83" r="13"/>
+          <circle class="cls-23" cx="80" cy="450" r="12"/>
+          <circle class="cls-23" cx="260" cy="517" r="11"/>
+          <circle class="cls-23" cx="860" cy="67" r="11"/>
+          <circle class="cls-23" cx="770" cy="400" r="10"/>
+          <circle class="cls-23" cx="590" cy="233" r="10"/>
+          <circle class="cls-23" cx="230" cy="417" r="9"/>
+          <circle class="cls-23" cx="320" cy="300" r="9"/>
+          <circle class="cls-23" cx="140" cy="283" r="7"/>
+          <circle class="cls-23" cx="710" cy="500" r="5"/>
+          <circle class="cls-23" cx="530" cy="483" r="5"/>
+          <circle class="cls-23" cx="290" cy="350" r="5"/>
+          <circle class="cls-23" cx="350" cy="333" r="5"/>
+          <circle class="cls-23" cx="410" cy="267" r="5"/>
+          <circle class="cls-23" cx="200" cy="533" r="4"/>
+          <circle class="cls-23" cx="500" cy="467" r="4"/>
+          <circle class="cls-23" cx="110" cy="367" r="4"/>
+          <circle class="cls-23" cx="680" cy="183" r="4"/>
+          <circle class="cls-23" cx="740" cy="433" r="3"/>
+          <circle class="cls-23" cx="470" cy="200" r="1"/>
+          <g id="labels">
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(876.1 212.9)"><tspan x="0" y="0">China</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(888 45.9)"><tspan x="0" y="0">United States</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(393.6 378.9)"><tspan x="0" y="0">Russian Federation</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(813 312.9)"><tspan x="0" y="0">Mexico</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(155.5 245.9)"><tspan x="0" y="0">Japan</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(538.3 112.9)"><tspan x="0" y="0">Germany</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(632.6 162.9)"><tspan x="0" y="0">Turkiye</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(359.4 145.9)"><tspan x="0" y="0">Thailand</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(790 128.9)"><tspan x="0" y="0">Italy</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(581.4 95.9)"><tspan x="0" y="0">United Kingdom</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(933.6 78.9)"><tspan x="0" y="0">France</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(50.5 445.9)"><tspan x="0" y="0">South Africa</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(241.7 512.9)"><tspan x="0" y="0">Ukraine</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(846.4 62.9)"><tspan x="0" y="0">Spain</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(753.3 395.9)"><tspan x="0" y="0">Poland</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(571.9 228.9)"><tspan x="0" y="0">Canada</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(199.6 412.9)"><tspan x="0" y="0">Saudi Arabia</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(299.2 295.9)"><tspan x="0" y="0">Malaysia</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(111.1 278.9)"><tspan x="0" y="0">Netherlands</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(689.7 495.9)"><tspan x="0" y="0">Hungary</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(511.1 478.9)"><tspan x="0" y="0">Czechia</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(239.3 345.9)"><tspan x="0" y="0">United Arab Emirates</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(333 328.9)"><tspan x="0" y="0">Greece</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(392.8 262.9)"><tspan x="0" y="0">Austria</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(161.4 528.9)"><tspan x="0" y="0">Slovak Republic</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(478.6 462.9)"><tspan x="0" y="0">Denmark</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(85.6 362.9)"><tspan x="0" y="0">Singapore</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(653.1 178.9)"><tspan x="0" y="0">Hong Kong</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(722.8 428.9)"><tspan x="0" y="0">Croatia</tspan></text>
+            </g>
+            <g class="cls-5">
+              <text class="cls-3" transform="translate(454.4 195.9)"><tspan x="0" y="0">Macao</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <circle class="cls-23" cx="890" cy="217" r="60"/>
+  <circle class="cls-23" cx="920" cy="50" r="29"/>
+  <circle class="cls-23" cx="440" cy="383" r="19"/>
+  <circle class="cls-23" cx="170" cy="250" r="18"/>
+  <circle class="cls-23" cx="560" cy="117" r="15"/>
+  <circle class="cls-23" cx="380" cy="150" r="14"/>
+  <circle class="cls-23" cx="620" cy="100" r="13"/>
+  <circle class="cls-23" cx="950" cy="83" r="13"/>
+  <circle class="cls-23" cx="80" cy="450" r="12"/>
+  <circle class="cls-23" cx="260" cy="517" r="11"/>
+  <circle class="cls-23" cx="770" cy="400" r="10"/>
+  <circle class="cls-23" cx="590" cy="233" r="10"/>
+  <circle class="cls-23" cx="230" cy="417" r="9"/>
+  <circle class="cls-23" cx="320" cy="300" r="9"/>
+  <circle class="cls-23" cx="140" cy="283" r="7"/>
+  <circle class="cls-23" cx="710" cy="500" r="5"/>
+  <circle class="cls-23" cx="530" cy="483" r="5"/>
+  <circle class="cls-23" cx="290" cy="350" r="5"/>
+  <circle class="cls-23" cx="350" cy="333" r="5"/>
+  <circle class="cls-23" cx="410" cy="267" r="5"/>
+  <circle class="cls-23" cx="200" cy="533" r="4"/>
+  <circle class="cls-23" cx="500" cy="467" r="4"/>
+  <circle class="cls-23" cx="110" cy="367" r="4"/>
+  <circle class="cls-23" cx="680" cy="183" r="4"/>
+  <g id="labels-2" data-name="labels">
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(876.1 212.9)"><tspan x="0" y="0">China</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(888 45.9)"><tspan x="0" y="0">United States</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(393.6 378.9)"><tspan x="0" y="0">Russian Federation</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(813 312.9)"><tspan x="0" y="0">Mexico</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(155.5 245.9)"><tspan x="0" y="0">Japan</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(538.3 112.9)"><tspan x="0" y="0">Germany</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(632.6 162.9)"><tspan x="0" y="0">Turkiye</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(359.4 145.9)"><tspan x="0" y="0">Thailand</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(790 128.9)"><tspan x="0" y="0">Italy</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(581.4 95.9)"><tspan x="0" y="0">United Kingdom</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(933.6 78.9)"><tspan x="0" y="0">France</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(50.5 445.9)"><tspan x="0" y="0">South Africa</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(241.7 512.9)"><tspan x="0" y="0">Ukraine</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(846.4 62.9)"><tspan x="0" y="0">Spain</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(753.3 395.9)"><tspan x="0" y="0">Poland</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(571.9 228.9)"><tspan x="0" y="0">Canada</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(199.6 412.9)"><tspan x="0" y="0">Saudi Arabia</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(299.2 295.9)"><tspan x="0" y="0">Malaysia</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(111.1 278.9)"><tspan x="0" y="0">Netherlands</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(689.7 495.9)"><tspan x="0" y="0">Hungary</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(511.1 478.9)"><tspan x="0" y="0">Czechia</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(239.3 345.9)"><tspan x="0" y="0">United Arab Emirates</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(333 328.9)"><tspan x="0" y="0">Greece</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(392.8 262.9)"><tspan x="0" y="0">Austria</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(161.4 528.9)"><tspan x="0" y="0">Slovak Republic</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(478.6 462.9)"><tspan x="0" y="0">Denmark</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(85.6 362.9)"><tspan x="0" y="0">Singapore</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(653.1 178.9)"><tspan x="0" y="0">Hong Kong</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(722.8 428.9)"><tspan x="0" y="0">Croatia</tspan></text>
+    </g>
+    <g class="cls-5">
+      <text class="cls-3" transform="translate(454.4 195.9)"><tspan x="0" y="0">Macao</tspan></text>
+    </g>
+  </g>
+  <circle class="cls-23" cx="740" cy="433" r="3"/>
+  <circle class="cls-23" cx="470" cy="200" r="1"/>
+  <g id="grid">
+    <rect class="cls-20" y="0" width="1000" height="600"/>
+  </g>
+  <circle class="cls-20" cx="1065" cy="66.7" r="1"/>
+  <g class="cls-5">
+    <text class="cls-2" transform="translate(1130 71.7)"><tspan x="0" y="0">0.6</tspan></text>
+  </g>
+  <circle class="cls-23" cx="1065" cy="142.5" r="60"/>
+  <g class="cls-5">
+    <text class="cls-2" transform="translate(1130 147.5)"><tspan x="0" y="0">1361.4</tspan></text>
+  </g>
+  <g class="cls-5">
+    <text class="cls-6" transform="translate(1005 50)"><tspan x="0" y="0">population_size_in_millions</tspan></text>
+  </g>
+  <circle id="_140000000000" data-name="140000000000" class="cls-21" cx="919" cy="50" r="13.4"/>
+  <rect id="_0" data-name="0" class="cls-16" x="919" y="50"/>
+  <circle id="_200000000000" data-name="200000000000" class="cls-21" cx="950.2" cy="82.5" r="38.3"/>
+  <circle id="_100000000000" data-name="100000000000" class="cls-21" cx="830" cy="317" r="15"/>
+  <rect id="_0-2" data-name="0" class="cls-16" x="830.3" y="316.9"/>
+  <circle id="_20000000000" data-name="20000000000" class="cls-21" cx="440" cy="383" r="2.8"/>
+  <circle id="_100000000000-2" data-name="100000000000" class="cls-21" cx="860" cy="67.5" r="21.7"/>
+  <rect id="_0-3" data-name="0" class="cls-8" x="879.9" y="58.9"/>
+  <circle id="_20000000000-2" data-name="20000000000" class="cls-21" cx="170" cy="250.7" r="2.9"/>
+  <rect id="_0-4" data-name="0" class="cls-21" x="170" y="250.7"/>
+  <circle id="_80000000000" data-name="80000000000" class="cls-21" cx="800" cy="133" r="17"/>
+  <rect id="_0-5" data-name="0" class="cls-21" x="800" y="133"/>
+  <rect id="_0-6" data-name="0" class="cls-12" x="367.1" y="-65.6"/>
+  <circle class="cls-22" cx="367.1" cy="-65.6" r="1"/>
+  <circle class="cls-22" cx="367.1" cy="-65.6" r="1"/>
+  <circle id="_40000000000" data-name="40000000000" class="cls-21" cx="559.9" cy="117" r="7.5"/>
+  <rect id="_0-7" data-name="0" class="cls-12" x="559.9" y="117.9"/>
+  <circle id="_40000000000-2" data-name="40000000000" class="cls-21" cx="650" cy="167.1" r="7.6"/>
+  <rect id="_0-8" data-name="0" class="cls-12" x="650.1" y="167.1"/>
+  <circle id="_40000000000-3" data-name="40000000000" class="cls-21" cx="620" cy="100" r="8.5"/>
+  <rect id="_0-9" data-name="0" class="cls-12" x="619.6" y="100"/>
+  <circle id="_20000000000-3" data-name="20000000000" class="cls-21" cx="379.6" cy="150.4" r="4.2"/>
+  <rect id="_0-10" data-name="0" class="cls-12" x="379.6" y="150.4"/>
+  <circle id="_200000000000-2" data-name="200000000000" class="cls-21" cx="1065" cy="142.5" r="38.3"/>
+  <circle id="_20000000000-4" data-name="20000000000" class="cls-21" cx="80.2" cy="449.9" r="2.7"/>
+  <rect id="_0-11" data-name="0" class="cls-15" x="80.2" y="449.9"/>
+  <circle id="_20000000000-5" data-name="20000000000" class="cls-21" cx="259.9" cy="517" r="4.8"/>
+  <rect id="_0-12" data-name="0" class="cls-7" x="259.9" y="517"/>
+  <circle id="_40000000000-4" data-name="40000000000" class="cls-21" cx="710" cy="499.9" r="17.3"/>
+  <rect id="_0-13" data-name="0" class="cls-10" x="710" y="500.1"/>
+  <circle id="_20000000000-6" data-name="20000000000" class="cls-21" cx="320" cy="300" r="6.3"/>
+  <rect id="_0-14" data-name="0" class="cls-7" x="319.8" y="300.1"/>
+  <circle id="_40000000000-5" data-name="40000000000" class="cls-21" cx="680" cy="183" r="15.5"/>
+  <rect id="_0-15" data-name="0" class="cls-10" x="680" y="183"/>
+  <circle id="_20000000000-7" data-name="20000000000" class="cls-21" cx="230" cy="417" r="6.4"/>
+  <rect id="_0-16" data-name="0" class="cls-7" x="229.9" y="417.3"/>
+  <circle id="_20000000000-8" data-name="20000000000" class="cls-21" cx="770" cy="400" r="2.7"/>
+  <rect id="_0-17" data-name="0" class="cls-11" x="770" y="389"/>
+  <circle id="_20000000000-9" data-name="20000000000" class="cls-21" cx="530" cy="483" r="16.8"/>
+  <rect id="_0-18" data-name="0" class="cls-11" x="530" y="487"/>
+  <circle id="_20000000000-10" data-name="20000000000" class="cls-21" cx="350.1" cy="332.9" r="8.1"/>
+  <rect id="_0-19" data-name="0" class="cls-11" x="350" y="339"/>
+  <circle id="_40000000000-6" data-name="40000000000" class="cls-21" cx="500" cy="467" r="14.5"/>
+  <rect id="_0-20" data-name="0" class="cls-11" x="500" y="464"/>
+  <circle id="_40000000000-7" data-name="40000000000" class="cls-21" cx="410" cy="267" r="13.4"/>
+  <rect id="_0-21" data-name="0" class="cls-11" x="416" y="267"/>
+  <circle id="_20000000000-11" data-name="20000000000" class="cls-21" cx="290" cy="349.9" r="11"/>
+  <rect id="_0-22" data-name="0" class="cls-13" x="290" y="349.9"/>
+  <circle id="_40000000000-8" data-name="40000000000" class="cls-21" cx="470" cy="200" r="13.6"/>
+  <rect id="_0-23" data-name="0" class="cls-13" x="470" y="200"/>
+  <circle id="_20000000000-12" data-name="20000000000" class="cls-21" cx="200" cy="533" r="14.5"/>
+  <rect id="_0-24" data-name="0" class="cls-9" x="200" y="530"/>
+  <circle id="_20000000000-13" data-name="20000000000" class="cls-21" cx="110" cy="366.8" r="10"/>
+  <rect id="_0-25" data-name="0" class="cls-9" x="106" y="368"/>
+  <rect id="_0-26" data-name="0" class="cls-9" x="740" y="435"/>
+  <g id="dots">
+    <circle class="cls-21" cx="740" cy="433" r="1"/>
+    <circle class="cls-21" cx="740" cy="433" r="1"/>
+  </g>
+  <rect id="_0-27" data-name="0" class="cls-9" x="959.3" y="-91.4"/>
+  <g id="_18" data-name="18">
+    <path class="cls-25" d="M590,233h0"/>
+    <g id="dots-2" data-name="dots">
+      <circle class="cls-24" cx="590" cy="233" r="1"/>
+      <circle class="cls-24" cx="590" cy="233" r="1"/>
+      <circle class="cls-24" cx="590" cy="233" r="1"/>
+    </g>
+  </g>
+  <circle id="_20000000000-14" data-name="20000000000" class="cls-21" cx="140" cy="283" r="8.7"/>
+  <rect id="_0-28" data-name="0" class="cls-14" x="140" y="283"/>
+  <g id="dots-3" data-name="dots">
+    <circle class="cls-21" cx="890" cy="217" r="1"/>
+    <circle class="cls-21" cx="890" cy="217" r="1"/>
+  </g>
+</svg>
