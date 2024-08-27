@@ -1,17 +1,11 @@
-# sustainable_tourism
-Analysis and visualisation project of tourism's impact on economies and environments from 2004 to 2020
+# Tourism Trends and Sustainability
+### Mapping sustainable travel destinations
+*Analyzing and visualizing the impact of tourism on economies and environments, highlighting the balance (or lack thereof) between tourism growth and sustainability efforts (2004-2022)*
 
----
+1. Flux and revenue from tourism
+2. Indicators for sustainable tourism
+  
 
-![Screenshot 2024-06-24 at 20.17.42](screenshots/Screenshot%202024-06-24%20at%2020.17.42.png)
-
----
-
-![Screenshot 2024-06-24 at 20.18.45](screenshots/Screenshot%202024-06-24%20at%2020.18.45.png)
-
----
-
-![Screenshot 2024-06-24 at 20.22.24](screenshots/Screenshot%202024-06-24%20at%2020.22.24.png)
 
 ---
 
@@ -52,3 +46,11 @@ Analysis and visualisation project of tourism's impact on economies and environm
 ---
 
 ![Screenshot8](screenshots/Screenshot8.png)
+
+---
+
+![Screenshot 2024-06-24 at 20.18.45](screenshots/Screenshot%202024-06-24%20at%2020.18.45.png)
+
+---
+
+![Screenshot 2024-06-24 at 20.22.24](screenshots/Screenshot%202024-06-24%20at%2020.22.24.png)
